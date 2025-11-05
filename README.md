@@ -35,7 +35,7 @@ It combines **Python-based sentiment analysis** with **AI-generated summaries** 
 ---
 
 ## 🚀 How to Run
-1. Open the notebook in **[Google Colab](https://colab.research.google.com/drive/1LlffnYavTrwddd5Ym8u9psla0hVGXEde#scrollTo=D7bHauRJM_RS))**  
+1. Open the notebook in **[Google Colab](https://colab.research.google.com/drive/1ZwueYYiBym0d3p6YIYZKE9dW-HS-P2V3#scrollTo=DGDpfN7tslD2))**  
 2. Install required packages (if not installed):  
 ```bash
 !pip install pandas textblob openai

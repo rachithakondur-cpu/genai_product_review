@@ -1,6 +1,6 @@
 # Review Sentiment Analysis
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([YOUR-COLAB-LINK-HERE](https://colab.research.google.com/drive/1ZwueYYiBym0d3p6YIYZKE9dW-HS-P2V3#scrollTo=DGDpfN7tslD2))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZwueYYiBym0d3p6YIYZKE9dW-HS-P2V3#scrollTo=DGDpfN7tslD2)
 ![Python](https://img.shields.io/badge/python-v3.7+-blue.svg)
 ![Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen.svg)
 

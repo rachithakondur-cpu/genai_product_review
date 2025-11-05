@@ -1,41 +1,29 @@
-# Gen AI-Powered Product Review Sentiment Analysis
+# Review Sentiment Analysis
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([YOUR-COLAB-LINK-HERE](https://colab.research.google.com/drive/1ZwueYYiBym0d3p6YIYZKE9dW-HS-P2V3#scrollTo=DGDpfN7tslD2))
+![Python](https://img.shields.io/badge/python-v3.7+-blue.svg)
+![Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen.svg)
 
 ## Overview
-This project demonstrates a **mini Gen AI + analytics workflow** for analyzing e-commerce product reviews.  
-It combines **Python-based sentiment analysis** with **AI-generated summaries** to automatically extract insights from customer feedback.
+Interactive analysis of customer reviews with sentiment analysis and category distribution.
 
----
+## Features
+- Sentiment Analysis
+- Top 20 Category Distribution
+- Product Statistics
+- Interactive Visualizations
+- Detailed Statistical Analysis
 
-## 🧩 Features
-- Detects **sentiment** (Positive / Negative / Neutral) for product reviews  
-- Generates **automated summary insights** using Gen AI (OpenAI GPT)  
-- Provides **actionable insights** for product improvement or marketing strategies  
-- Works on any CSV dataset of product reviews  
+## Quick Start
+1. Click the "Open in Colab" button above
+2. Connect to Google Drive
+3. Run all cells
+4. View interactive visualizations
 
----
+## Requirements
+- Python 3.7+
+- Required packages in requirements.txt
 
-## 🛠 Tools & Technologies
-- **Python 3**  
-- **Pandas** – data manipulation  
-- **TextBlob** – quick sentiment analysis  
-- **OpenAI GPT** – AI-generated summary (optional)  
-- **Google Colab** – cloud notebook environment  
-
-
-
-## 📊 Sample Output
-| Product | Review_Text | Rating | Sentiment |
-|---------|-------------|--------|-----------|
-| Headphones | Sound quality is amazing but battery drains fast. | 4 | Positive |
-| Smartwatch | Screen lags and the strap broke in a week. | 2 | Negative |
-
-**Gen AI Summary Example:**  
-> “Most customers love the sound quality and product performance. Common complaints include battery life and durability issues.”
-
----
-
-## 🚀 How to Run
-1. Open the notebook in **[Google Colab](https://colab.research.google.com/drive/1ZwueYYiBym0d3p6YIYZKE9dW-HS-P2V3#scrollTo=DGDpfN7tslD2))**  
-2. Install required packages (if not installed):  
+## Installation
 ```bash
-!pip install pandas textblob openai
+pip install -r requirements.txt
